@@ -62,7 +62,7 @@ AlignBench/
   title={Beyond Fine-Tuning: Stability, Alignment, and Drift in Open LLMs},
   author={Joy Mukerjee},
   year={2025},
-  url={https://github.com/mukerjeejoy-github/AlignBench}
+  url={https://github.com/mukerjeejoy-github/Alignbench}
 }
 ```
 
