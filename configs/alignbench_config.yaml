@@ -1,0 +1,10 @@
+model:
+  base_model: "distilgpt2" # Base model from Hugging Face Hub
+  finetuned_model: "./finetuned_model/" # Local fine-tuned model checkpoint
+
+datasets:
+  in_domain_dataset: "wikitext"
+  ood_dataset: "c4"
+  probe_dataset: "custom_probe_set" # You can design simple probing sets later
+
+output_dir: "outputs"

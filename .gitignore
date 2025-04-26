@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual Environment
+venv/
+
+# Hugging Face cache
+~/.cache/huggingface/
+
+# Checkpoints
+finetuned_model/
+outputs/
+wandb/
+logs/
+
+# IDE configs
+.vscode/
+.idea/
