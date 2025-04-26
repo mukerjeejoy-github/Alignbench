@@ -10,7 +10,7 @@ Built for researchers, ML engineers, and AI practitioners.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
