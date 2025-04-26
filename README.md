@@ -25,7 +25,7 @@ source venv/bin/activate   # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 # Run AlignBench
-python scripts/run_alignbench.py --config configs/alignbench_config.yaml
+python -m scripts/run_alignbench.py --config configs/alignbench_config.yaml
 
 ```
 
