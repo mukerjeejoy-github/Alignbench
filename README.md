@@ -14,7 +14,7 @@ Built for researchers, ML engineers, and AI practitioners.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/AlignBench.git
+git clone https://github.com/mukerjeejoy-github/Alignbench.git
 cd AlignBench
 
 # Create virtual environment
